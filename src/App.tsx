@@ -1,10 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
+import LoveCard from './love-card/LoveCard';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1>Valentine-s-Day</h1>
+    <div>
+      <LoveCard/>
     </div>
   );
 }
