@@ -23,7 +23,6 @@ const LoveCard = () => {
           <span className="close" title="Restart" onClick={handleCloseClick}><i className="fa fa-times"></i></span>
           <h1>Я тебя люблю!!!</h1>
           <h2>Моя дорогая Вика - ты воплощение всего, что самое прекрасное и доброе в этом мире. Ты – светлая искорка в моей жизни, которая освещает мой путь своим теплом и нежностью.</h2>
-          <h2> Will u be my valentine?</h2>
         </div>
       </div>
     </div>
